@@ -1,4 +1,3 @@
-# Testing-Learning
-learning about "How to handle the codes of git "
-<br>
-Author - Jatin Reddy
+This is a project made at the time when i was learning web deveopment course form coursera platform
+
+Author -- Jatin Reddy
